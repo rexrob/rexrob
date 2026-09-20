@@ -5,9 +5,11 @@ This folder contains the major domains of my life and work.
 ## Current Areas
 
 - [Engineering](./engineering.md)
-- [Life](./life.md)
-- [Business](./business.md)
+- [Platform & Operations](./platform-operations.md)
+- [Security & Compliance](./security-compliance.md)
+- [Business & Career](./business.md)
 - [Finances](./finances.md)
+- [Life](./life.md)
 
 ## How to Use This
 
