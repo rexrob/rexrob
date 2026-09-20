@@ -7,6 +7,7 @@ This folder contains the major domains of my life and work.
 - [Engineering](./engineering.md)
 - [Life](./life.md)
 - [Business](./business.md)
+- [Finances](./finances.md)
 
 ## How to Use This
 
