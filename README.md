@@ -1,30 +1,41 @@
 # Rex's Second Brain
 
-This repository is my personal second brain: a place for notes, ideas, projects, learning, and long-term thinking.
+This repository is a working second brain for a senior DevOps engineer operating in a large financial asset management environment.
 
 ## Purpose
 
 Use this space to:
-- capture ideas before they disappear
-- organize projects and next actions
-- keep useful knowledge in one searchable place
-- maintain a clear map of life, work, and learning
+- capture engineering and operational learnings
+- organize platform, reliability, and security work
+- track goals across career, life, and finances
+- keep knowledge searchable and reusable
+- test a GitHub-based system for structured thinking
+
+## Current Profile
+
+Role: Senior DevOps Engineer
+Industry: Large financial asset management company
+Focus: cloud platform operations, automation, resilience, security, compliance, developer enablement, and operational excellence
 
 ## Core Structure
 
-- `areas/` — major domains of life and work
+- `areas/` — major domains of work and life
 - `projects/` — active or planned work
-- `notes/` — conceptual knowledge and learning notes
-- `daily/` — daily logs and weekly reflections
-- `templates/` — reusable note formats
-- `resources/` — links, references, tools, and useful material
+- `notes/` — technical, professional, and personal knowledge
+- `daily/` — daily logs, reflections, and working notes
+- `templates/` — reusable note and project patterns
+- `resources/` — references, docs, links, and useful reads
 - `archive/` — older or superseded notes
 
 ## Current Focus
 
-- Build tools and automation that improve daily work
-- Organize personal systems for clarity and execution
-- Continue learning and capturing useful knowledge
+- platform engineering and automation
+- cloud infrastructure reliability
+- CI/CD and deployment standardization
+- security, compliance, and auditability
+- observability and operational resilience
+- improving engineering systems in a regulated environment
+- keeping a sustainable personal and professional system
 
 ## Quick Links
 
@@ -33,23 +44,26 @@ Use this space to:
 - [Notes](./notes/README.md)
 - [Daily notes](./daily/README.md)
 - [Resources](./resources/links.md)
+- [DevOps profile notes](./notes/devops-profile.md)
 
 ## Principles
 
-- Capture quickly, refine later
-- Prefer clarity over complexity
-- Keep notes useful and reusable
-- Link ideas across domains
-- Review and update regularly
+- capture quickly, refine later
+- prefer clarity over complexity
+- document systems so they survive turnover and change
+- align technical work with business and regulatory realities
+- keep notes practical, searchable, and reusable
+- review and update regularly
 
 ## First Steps
 
 1. Review the [areas](./areas/README.md)
 2. Check active [projects](./projects/README.md)
-3. Add a new note in [notes](./notes/README.md)
-4. Log today in [daily/2026-09-20.md](./daily/2026-09-20.md)
-5. Add useful references to [resources/links.md](./resources/links.md)
+3. Review the [DevOps profile notes](./notes/devops-profile.md)
+4. Add technical notes in [notes](./notes/README.md)
+5. Log your day in [daily/2026-09-20.md](./daily/2026-09-20.md)
+6. Add relevant references to [resources/links.md](./resources/links.md)
 
 ---
 
-This is a living system. It should evolve as your thinking evolves.
+This repository is a live system and should evolve with your work and learning.
