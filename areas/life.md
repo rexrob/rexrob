@@ -2,25 +2,40 @@
 
 ## Purpose
 
-This area covers the non-work parts of life: health, habits, routines, relationships, and long-term personal growth.
+This area covers the non-work part of life: health, routines, habits, focus, relationships, and long-term personal sustainability.
 
-## Focus Areas
+## Core Focus
 
 - health and energy
-- habits and routines
-- financial clarity
-- relationships
-- personal systems
+- routine and habit design
+- sustainable work-life balance
+- relationships and support systems
+- personal growth and reflection
+- resilience and recovery
+
+## Goals
+
+- protect energy and avoid burnout
+- build routines that support quality of life
+- keep long-term personal priorities visible
+- improve consistency over intensity
+- build a sustainable personal system
 
 ## Questions to Revisit
 
-- What creates peace and momentum?
-- What habits support my best life?
-- What is dragging energy away unnecessarily?
+- What drains my energy most?
+- What habits support my best performance?
+- What needs more structure, recovery, or attention?
+- What choices improve life quality over time?
 
-## Main Principles
+## Systems to Track
 
-- Protect energy
-- Keep systems simple
-- Build routines that can be maintained
-- Review often and adjust without guilt
+- routines and habits
+- health and sleep
+- personal planning
+- recurring life admin
+- reflection and review cycles
+
+## Related Notes
+
+This area supports the sustainable personal system behind the engineering and work life.

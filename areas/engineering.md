@@ -2,28 +2,42 @@
 
 ## Purpose
 
-This area covers software development, tooling, experiments, systems, and technical learning.
+This area covers software delivery, automation, platform work, tooling, cloud systems, and engineering effectiveness.
 
-## Current Focus
+## Core Focus
 
-- Build practical developer tools
-- Improve workflow automation
-- Explore and document useful systems
-- Keep repositories clean and maintainable
+- infrastructure as code
+- CI/CD and deployment automation
+- cloud platform operations
+- reliability engineering
+- observability and incident response
+- developer productivity and enablement
+- continuous improvement of engineering systems
 
 ## Goals
 
-- Build high-quality tools that solve real problems
-- Learn deeply without collecting too much noise
-- Turn experiments into useful systems
+- improve release confidence and operational resilience
+- reduce manual toil and operational complexity
+- standardize repeatable engineering practices
+- improve system design and platform quality
+- support business outcomes with reliable technical systems
 
-## Active Questions
+## Questions to Revisit
 
-- What tools save the most time?
-- What systems create leverage?
-- What am I learning that is worth preserving?
+- Where are the biggest bottlenecks in delivery and operations?
+- What systems are fragile or overly complex?
+- What patterns improve standards without slowing teams down?
+- What should be automated, codified, or made self-service?
+
+## Systems to Track
+
+- deployment pipelines
+- environment provisioning
+- configuration management
+- observability and dashboards
+- incident learnings
+- service ownership and reliability metrics
 
 ## Related Notes
 
-- See `notes/` for deeper knowledge capture
-- See `projects/` for active builds and experiments
+Use `notes/` for deeper technical reasoning and engineering patterns.

@@ -10,7 +10,7 @@ This area covers money management, financial clarity, planning, and long-term se
 - saving and emergency fund planning
 - debt reduction and repayment strategy
 - investment learning and long-term planning
-- protecting financial stability and reducing stress
+- financial resilience and stress reduction
 
 ## Goals
 
@@ -23,7 +23,7 @@ This area covers money management, financial clarity, planning, and long-term se
 
 - Am I spending in alignment with my priorities?
 - What systems help me save and stay consistent?
-- What does financial freedom mean for me?
+- What does financial freedom or stability mean for me?
 - What decisions are improving or hurting long-term security?
 
 ## Systems to Track
@@ -34,16 +34,6 @@ This area covers money management, financial clarity, planning, and long-term se
 - debt progress
 - investment or retirement contributions
 
-## Key Topics
-
-- cash flow
-- emergency fund
-- debt strategy
-- investing basics
-- risk management
-- income growth
-- long-term goals
-
 ## Related Notes
 
-Use the `notes/` folder for deeper financial learning, questions, and frameworks.
+Use `notes/` for deeper financial learning, frameworks, and tracking.
